@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "813158435341",
+    "firebase_url": "https://duntayo-f57cb.firebaseio.com",
+    "project_id": "duntayo-f57cb",
+    "storage_bucket": "duntayo-f57cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813158435341:android:cd528d5642282c1c",
+        "android_client_info": {
+          "package_name": "rocks.spc.duntayo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813158435341-pps3aavaf1t2bdhqq47ojlkfnmuir44d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rocks.spc.duntayo",
+            "certificate_hash": "0d1dc3e332c92da0f382158371f7a5ae77e8da6b"
+          }
+        },
+        {
+          "client_id": "813158435341-bc6nhfsgr2hkdak8gqv1op9o8h4o0hff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0OAC03-rAPjppv-YnBFKtCxrzGitp34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813158435341-bc6nhfsgr2hkdak8gqv1op9o8h4o0hff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
